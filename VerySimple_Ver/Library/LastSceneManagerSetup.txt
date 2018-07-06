@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Artyom/Documents/New Unity Project/Assets/Lil_1.unity
+  isLoaded: 1
+  isActive: 1

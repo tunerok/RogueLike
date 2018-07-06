@@ -1,0 +1,51 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730M (ID=0xfe1)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Artyom\Documents\VerySimple_Ver\2drogue_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Artyom\Documents\VerySimple_Ver\2drogue_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Artyom\Documents\VerySimple_Ver\2drogue_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Artyom\Documents\VerySimple_Ver\2drogue_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Artyom\Documents\VerySimple_Ver\2drogue_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Artyom\Documents\VerySimple_Ver\2drogue_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Artyom\Documents\VerySimple_Ver\2drogue_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Artyom\Documents\VerySimple_Ver\2drogue_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.376 seconds
+Platform assembly: C:\Users\Artyom\Documents\VerySimple_Ver\2drogue_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Artyom\Documents\VerySimple_Ver\2drogue_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 16.382421 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.656969 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 903.
+Total: 0.323291 ms (FindLiveObjects: 0.063445 ms CreateObjectMapping: 0.027524 ms MarkObjects: 0.221592 ms  DeleteObjects: 0.004198 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.050113 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 972.
+Total: 0.322358 ms (FindLiveObjects: 0.047583 ms CreateObjectMapping: 0.021925 ms MarkObjects: 0.247716 ms  DeleteObjects: 0.004665 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.049180 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1018.
+Total: 0.340552 ms (FindLiveObjects: 0.047583 ms CreateObjectMapping: 0.022392 ms MarkObjects: 0.264044 ms  DeleteObjects: 0.005598 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.181669 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 990.
+Total: 0.464177 ms (FindLiveObjects: 0.077907 ms CreateObjectMapping: 0.019593 ms MarkObjects: 0.360145 ms  DeleteObjects: 0.005131 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 13ac -> priority: 1 
+  Thread -> id: 2ffc -> priority: 1 
